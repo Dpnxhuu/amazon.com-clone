@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: Arial;
     scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
 }
 @media (hover: none) {
   button:hover {
