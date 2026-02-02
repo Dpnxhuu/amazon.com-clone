@@ -5,6 +5,12 @@
     font-family: Arial;
     scroll-behavior: smooth;
 }
+@media (hover: none) {
+  button:hover {
+    background: inherit;
+    color: inherit;
+  }
+}
 
 body {
     background-color: #e3e3e3;
